@@ -1,0 +1,56 @@
+/******Rock Section******/
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+#img-rock{
+    width: 23%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+#img-rock:hover{
+    width: 24%;
+}
+
+
+
+
+/*******Paper Section******/
+
+#img-paper{
+    width: 23%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+#img-paper:hover{
+    width: 24%;
+}
+
+
+
+/*********Ssicor Section*******/
+
+
+#img-ssicor{
+    width: 23%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+#img-ssicor:hover{
+    width: 24%;
+}
